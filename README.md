@@ -143,7 +143,7 @@ print("Total Keuntungan selama 8 bulan adalah: Rp", total_keuntungan)
 ````
   
 ## OUTPUT
-<img src="labspy03/Program1py.png" width="500px">
+<img src="labspy03/Program1.png" width="500px">
 
 ## STRUKTUR KONDISI
 ## Latihan 1
@@ -164,7 +164,7 @@ print("Bilangan terbesar adalah:", terbesar)
 ````
 
 ## OUTPUT
-<img src="struktur kondisi/latihan1py.png" width="500px">
+<img src="struktur kondisi/latihan1.png" width="500px">
 
 ## Latihan 2
 ````
