@@ -49,7 +49,7 @@ print("Selesai")
 
 ````
 ## OUTPUT
-<img src="labspy03/labspy03_Latihan1.png" width="500px">
+<img src="labspy03/Latihan1.png" width="500px">
 
 ## LATIHAN 2 
 - max_number = None: Variabel max_number diinisialisasi dengan nilai None. 
@@ -99,7 +99,7 @@ else:
 
 
 ## OUTPUT
-<img src="labspy03/labspy03_Latihan2.png" width="500px">
+<img src="labspy03/Latihan2.png" width="500px">
 
 ## PROGRAM 1 PY
 - total_keuntungan += modal_awal * 0.01: Pada bulan 3, laba 1% dari modal awal ditambahkan ke total_keuntungan.
